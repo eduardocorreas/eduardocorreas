@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou desenvolvedor Fullstack na [Emperium](https://emperium.com.br/)
 - 🌱 Estou estudando as áreas de Growth e Customer Experience
 
-<div align="center">
+<div>
   <a href="https://github.com/eduardocorreas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardocorreas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocorreas&layout=compact&langs_count=7&theme=dracula"/>
