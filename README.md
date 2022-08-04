@@ -1,7 +1,7 @@
 ### Hi! I'm Eduardo Corrêa.
 
 - 🔭 I am currently a Frontend developer at [Gran Cursos Online](https://grancursosonline.com.br/)
-- 🎥 I'm a YouTuber and I teach about Digital Accessibility for websites
+- 🎥 I'm a YouTuber and I teach about [Digital Accessibility for websites](https://www.youtube.com/channel/UCtKGDWQkvGZvwm4kUNUNbKQ)
 - 🌱 I'm studying Digital Accessibility
 
 <div>
