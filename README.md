@@ -1,7 +1,8 @@
-### Olá! Eu sou Eduardo Corrêa.
+### Hi! I'm Eduardo Corrêa.
 
-- 🔭 Atualmente sou desenvolvedor Fullstack na [Emperium](https://emperium.com.br/)
-- 🌱 Estou estudando as áreas de Growth e Customer Experience
+- 🔭 I am currently a Frontend developer at [Gran Cursos Online](https://grancursosonline.com.br/)
+- 🎥 I'm a YouTuber and I teach about Digital Accessibility for websites
+- 🌱 I'm studying Digital Accessibility
 
 <div>
   <a href="https://github.com/eduardocorreas">
